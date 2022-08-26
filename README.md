@@ -3,7 +3,7 @@
 # Overview of the analysis:
 
 
-Myself and my boss, Omar were instructed by our boss, to create a graph that indicates the total weekly fares for each city type. Omar and I used our knowlegde of Pandas and Matplotlib to get this project done that will boost my career. 
+Myself and my boss, Omar were instructed by our boss, to create a graph that indicates the total weekly fares for each city type. Omar and I used our knowlegde of Pandas and Matplotlib to complete this project so my boss will give me a raise. 
 
 
 # There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.

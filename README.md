@@ -23,6 +23,5 @@ Myself and my boss, Omar were instructed by our boss, to create a graph that ind
 3 - I would recommend lowering prices in rural areas, the average urban ride costs $16 while the average rural ride costs $55. We need to get that $55 down to increase business. 
 
 
-https://github.com/TSheridan01/PyBer_Analysis/blob/a88c26ea9eb5fcd999da5a89f91438ea767bc730/analysis/PyBer_fare_summary.png
 
-
+![image](https://github.com/TSheridan01/PyBer_Analysis/blob/a88c26ea9eb5fcd999da5a89f91438ea767bc730/analysis/PyBer_fare_summary.png)

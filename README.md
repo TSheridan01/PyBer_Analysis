@@ -9,7 +9,24 @@ Myself and my boss, Omar were instructed by our boss, to create a graph that ind
 # There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 #Summary:
 
+Total Number of Rides:
+Rural        125
+Suburban     625
+Urban       1625
 
+Average Fares:
+Rural       $34.62
+Suburban    $30.97
+Urban       $24.52
+
+
+Number of Drivers by Area:
+Rural         78
+Suburban     490
+Urban       2405
+
+
+From this data we can conclude that the by offering lower cost rides in urban areas it accounts for the majority of our business. We have more drivers then rides in Urban areas as well.
 
 
 
